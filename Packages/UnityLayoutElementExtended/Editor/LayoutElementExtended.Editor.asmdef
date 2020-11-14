@@ -1,0 +1,15 @@
+{
+    "name": "LayoutElementExtended.Editor",
+    "references": [
+        "GUID:575670b9543514f7ca5fd5296722eb5e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

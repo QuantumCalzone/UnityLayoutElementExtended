@@ -1,31 +1,30 @@
 {
-   "name":"com.quantumcalzone.unitylayoutelementextended",
-   "displayName":"Layout Element Extended",
-   "description":"An extension of Unity's LayoutElement script that enables more flexible adaptation. With this you can now match another RecTransform's dimensions (width, height, or both) and now set maximum preferred values.",
-   "version":"0.0.1",
-   "unity":"2018.1",
-   "license":"MIT",
-   "repository":{
-      "type":"git",
-      "url":"git+https://github.com/QuantumCalzone/UnityLayoutElementExtended.git"
-   },
-   "author":{
-      "name":"QuantumCalzone",
-      "email":"QuantumCalzone@gmail.com",
-      "url":"https://github.com/QuantumCalzone"
-   },
-   "type":"tool",
-   "keywords":[
-      "unity",
-      "layout",
-      "elementExtended",
-      "extended",
-      "quantum",
-      "calzone"
-   ],
-   "category":"QuantumCalzone",
-   "dependencies":{
-
-   },
-   "unityRelease":""
+  "name": "com.quantumcalzone.unitylayoutelementextended",
+  "displayName": "LayoutElementExended",
+  "description": "An extension of Unity's LayoutElement script that enables more flexible adaptation. With this you can now match another RecTransform's dimensions (width, height, or both) and now set maximum preferred values.",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumCalzone/UnityLayoutElementExtended.git"
+  },
+  "author": {
+    "name": "QuantumCalzone",
+    "email": "QuantumCalzone@gmail.com",
+    "url": "https://github.com/QuantumCalzone"
+  },
+  "type": "tool",
+  "keywords": [
+    "unity",
+    "layout",
+    "elementExtended",
+    "extended",
+    "quantum",
+    "calzone"
+  ],
+  "category": "QuantumCalzone",
+  "dependencies": {
+    "com.unity.ugui": "0.0.1"
+  }
 }
