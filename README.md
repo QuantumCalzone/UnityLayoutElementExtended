@@ -1,5 +1,10 @@
-# UnityLayoutElementExtended
+# Unity Layout Element Extended
 An extension of Unity's LayoutElement script that enables more flexible adaptation. With this you can now match another RecTransform's dimensions (width, height, or both) and now set maximum preferred values.
+
+![](https://imgur.com/zAVNpaA.png)
+
+## How to use
+Use the component LayoutElementExtended instead of LayoutElement
 
 ## How to install
 ### Via 2019.4 and later
