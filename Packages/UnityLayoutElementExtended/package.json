@@ -2,7 +2,7 @@
     "name": "com.quantumcalzone.unitylayoutelementextended",
     "displayName": "LayoutElementExended",
     "description": "An extension of Unity's LayoutElement script that enables more flexible adaptation. With this you can now match another RecTransform's dimensions (width, height, or both) and now set maximum preferred values.",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "unity": "2018.1",
     "license": "MIT",
     "repository": {
