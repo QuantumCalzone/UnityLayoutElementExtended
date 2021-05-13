@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace QuantumCalzone
+namespace LayoutElementExtended
 {
     [CustomPropertyDrawer(typeof(LayoutElementExtendedValue))]
     public class LayoutElementExtendedValuePropertyDrawer : PropertyDrawer

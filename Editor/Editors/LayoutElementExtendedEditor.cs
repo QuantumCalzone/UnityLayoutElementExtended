@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEditor.UI;
 
-namespace QuantumCalzone
+namespace LayoutElementExtended
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(LayoutElementExtended), true)]

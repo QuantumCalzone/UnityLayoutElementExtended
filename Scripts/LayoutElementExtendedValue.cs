@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace QuantumCalzone
+namespace LayoutElementExtended
 {
     [Serializable]
     public class LayoutElementExtendedValue
