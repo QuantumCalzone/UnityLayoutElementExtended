@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace QuantumCalzone
+namespace LayoutElementExtended
 {
     [AddComponentMenu("Layout/Extended/Layout Element Extended")]
     [RequireComponent(typeof(RectTransform))]
