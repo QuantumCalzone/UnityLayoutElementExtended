@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace LayoutElementExtended
+namespace UnityLayoutElementExtended
 {
     [CustomPropertyDrawer(typeof(LayoutElementExtendedValue))]
     public class LayoutElementExtendedValuePropertyDrawer : PropertyDrawer
