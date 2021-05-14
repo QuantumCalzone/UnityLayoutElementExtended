@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace LayoutElementExtended
+namespace UnityLayoutElementExtended
 {
     [Serializable]
     public class LayoutElementExtendedValue

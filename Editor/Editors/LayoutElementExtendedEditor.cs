@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEditor.UI;
 
-namespace LayoutElementExtended
+namespace UnityLayoutElementExtended
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(LayoutElementExtended), true)]
